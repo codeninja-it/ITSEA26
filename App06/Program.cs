@@ -17,9 +17,14 @@ string Cifra(string daCifrare, int quantoSpostare) {
     return testoCifrato;
 }
 
-// fatto ciò posso vedere entroambi i testi
+// chiedo all'utente il testo da convertire
 Console.WriteLine("Testo da cifrare:");
 string testo = Console.ReadLine();
-string cifrato = Cifra(testo, 1);
-Console.WriteLine(testo);
-Console.WriteLine(cifrato);
+// lo passo alla mia funzione
+string cifrato = Cifra(testo, 150);
+// ne mostro il risultato
+Console.Write(cifrato);
+Console.Write( (char)13 );
+// e lo decifro
+string decifrato = Cifra(cifrato, -150);
+Console.WriteLine(decifrato);
