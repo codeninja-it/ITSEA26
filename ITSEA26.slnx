@@ -5,4 +5,5 @@
   <Project Path="App04/App04.csproj" Id="aea85421-56f0-44db-90b9-3265bea4ac78" />
   <Project Path="App05/App05.csproj" Id="faa6788f-7bf6-416f-a176-8bf62572ff82" />
   <Project Path="App06/App06.csproj" Id="c5490260-ca3c-4106-a1b0-300d439b90db" />
+  <Project Path="App07/App07.csproj" Id="f70055aa-445b-4547-a5f7-fe48d2f15560" />
 </Solution>

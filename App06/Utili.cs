@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace App06
 {
-    internal class Utili
+    public class Utili
     {
         // creo una mia funzione riutilizzabile
-        internal string Cifra(string daCifrare, int quantoSpostare)
+        public string Cifra(string daCifrare, int quantoSpostare)
         {
             // e lo voglio cifrare
             string testoCifrato = "";
