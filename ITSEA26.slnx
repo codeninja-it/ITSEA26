@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="App01/App01.csproj" />
+  <Project Path="App02/App02.csproj" Id="af09ea33-7f24-49bf-ac59-970a2d056567" />
+  <Project Path="App03/App03.csproj" Id="3e02ea75-f893-485f-bdb0-ed45c50e3d0e" />
+  <Project Path="App04/App04.csproj" Id="aea85421-56f0-44db-90b9-3265bea4ac78" />
+  <Project Path="App05/App05.csproj" Id="faa6788f-7bf6-416f-a176-8bf62572ff82" />
+  <Project Path="App06/App06.csproj" Id="c5490260-ca3c-4106-a1b0-300d439b90db" />
+</Solution>
